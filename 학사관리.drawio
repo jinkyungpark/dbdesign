@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-28T02:03:20.710Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="S9SUywBRvdux9D1s1zVF" version="23.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-28T02:15:03.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="0PbyDpD3clGm3T8m26F0" version="23.0.2" type="github" pages="2">
   <diagram name="erd" id="zrvRrGHf2FYSujszkYFT">
     <mxGraphModel dx="1434" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,16 +8,13 @@
           <mxGeometry x="170" y="90" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1-gHV8yw1HiO9g8ATsyc-2" value="학번" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
-          <mxGeometry x="19" y="33" width="100" height="40" as="geometry" />
+          <mxGeometry x="19" y="47" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1-gHV8yw1HiO9g8ATsyc-3" value="이름" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="20" y="77" width="100" height="40" as="geometry" />
+          <mxGeometry x="20" y="91" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1-gHV8yw1HiO9g8ATsyc-4" value="키" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="20" y="119" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="1-gHV8yw1HiO9g8ATsyc-5" value="학과코드" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="19" y="160" width="100" height="40" as="geometry" />
+          <mxGeometry x="20" y="133" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1-gHV8yw1HiO9g8ATsyc-6" value="학과" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="570" y="90" width="100" height="40" as="geometry" />
@@ -32,25 +29,19 @@
           <mxGeometry x="570" y="420" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1-gHV8yw1HiO9g8ATsyc-12" value="교수코드" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
-          <mxGeometry x="720" y="375" width="100" height="40" as="geometry" />
+          <mxGeometry x="720" y="390" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1-gHV8yw1HiO9g8ATsyc-13" value="교수명" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="720" y="420" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="1-gHV8yw1HiO9g8ATsyc-14" value="학과코드" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="720" y="460" width="100" height="40" as="geometry" />
+          <mxGeometry x="720" y="449" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1-gHV8yw1HiO9g8ATsyc-15" value="과목" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="170" y="420" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1-gHV8yw1HiO9g8ATsyc-16" value="과목코드" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
-          <mxGeometry x="20" y="521" width="100" height="40" as="geometry" />
+          <mxGeometry x="20" y="484" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1-gHV8yw1HiO9g8ATsyc-17" value="과목명" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="20" y="434" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="1-gHV8yw1HiO9g8ATsyc-18" value="교수코드" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="20" y="477" width="100" height="40" as="geometry" />
+          <mxGeometry x="20" y="437" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1-gHV8yw1HiO9g8ATsyc-19" value="시작일" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="19" y="345" width="100" height="40" as="geometry" />
@@ -108,7 +99,7 @@
             <mxPoint x="-5" y="23" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-gHV8yw1HiO9g8ATsyc-34" value="배정" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="1-gHV8yw1HiO9g8ATsyc-34" value="강의" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="370" y="415" width="104" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1-gHV8yw1HiO9g8ATsyc-35" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1-gHV8yw1HiO9g8ATsyc-34">
@@ -164,12 +155,6 @@
             <mxPoint x="680" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-gHV8yw1HiO9g8ATsyc-46" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1-gHV8yw1HiO9g8ATsyc-14" target="1-gHV8yw1HiO9g8ATsyc-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="450" as="sourcePoint" />
-            <mxPoint x="680" y="450" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1-gHV8yw1HiO9g8ATsyc-47" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1-gHV8yw1HiO9g8ATsyc-15" target="1-gHV8yw1HiO9g8ATsyc-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="400" as="sourcePoint" />
@@ -188,25 +173,13 @@
             <mxPoint x="129" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-gHV8yw1HiO9g8ATsyc-50" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1-gHV8yw1HiO9g8ATsyc-15" target="1-gHV8yw1HiO9g8ATsyc-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="440" as="sourcePoint" />
-            <mxPoint x="130" y="464" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1-gHV8yw1HiO9g8ATsyc-51" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1-gHV8yw1HiO9g8ATsyc-15" target="1-gHV8yw1HiO9g8ATsyc-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="450" as="sourcePoint" />
             <mxPoint x="130" y="507" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-gHV8yw1HiO9g8ATsyc-52" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1-gHV8yw1HiO9g8ATsyc-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="255" as="sourcePoint" />
-            <mxPoint x="119" y="180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1-gHV8yw1HiO9g8ATsyc-53" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1-gHV8yw1HiO9g8ATsyc-1">
+        <mxCell id="1-gHV8yw1HiO9g8ATsyc-53" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-gHV8yw1HiO9g8ATsyc-1" target="1-gHV8yw1HiO9g8ATsyc-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="70" as="sourcePoint" />
             <mxPoint x="120" y="140" as="targetPoint" />
@@ -236,16 +209,13 @@
             <mxPoint x="670" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-gHV8yw1HiO9g8ATsyc-58" value="학번" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="280" y="220" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="1-gHV8yw1HiO9g8ATsyc-59" value="과목코드" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="1-gHV8yw1HiO9g8ATsyc-59" value="수강일자" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="280" y="270" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1-gHV8yw1HiO9g8ATsyc-60" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-gHV8yw1HiO9g8ATsyc-22" target="1-gHV8yw1HiO9g8ATsyc-58">
+        <mxCell id="1-gHV8yw1HiO9g8ATsyc-60" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-gHV8yw1HiO9g8ATsyc-22" target="ChEv4O9pinWbyFYY3SZg-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="400" as="sourcePoint" />
-            <mxPoint x="490" y="400" as="targetPoint" />
+            <mxPoint x="284" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1-gHV8yw1HiO9g8ATsyc-61" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-gHV8yw1HiO9g8ATsyc-22" target="1-gHV8yw1HiO9g8ATsyc-59">
@@ -253,6 +223,9 @@
             <mxPoint x="255" y="263" as="sourcePoint" />
             <mxPoint x="290" y="250" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ChEv4O9pinWbyFYY3SZg-2" value="수강번호" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="280" y="213" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -318,7 +291,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wxQTzvH6X1LhmzvfSKaS-37" value="학과" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="592" y="51" width="180" height="90" as="geometry" />
+          <mxGeometry x="590" y="68" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="wxQTzvH6X1LhmzvfSKaS-41" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;html=1;" vertex="1" parent="wxQTzvH6X1LhmzvfSKaS-37">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -347,7 +320,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wxQTzvH6X1LhmzvfSKaS-50" value="수강" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="298" y="340" width="180" height="120" as="geometry" />
+          <mxGeometry x="324" y="279" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wxQTzvH6X1LhmzvfSKaS-51" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="wxQTzvH6X1LhmzvfSKaS-50">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -389,7 +362,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wxQTzvH6X1LhmzvfSKaS-66" value="과목" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="38" y="474" width="180" height="180" as="geometry" />
+          <mxGeometry x="43" y="436" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="wxQTzvH6X1LhmzvfSKaS-67" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="wxQTzvH6X1LhmzvfSKaS-66">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -457,7 +430,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wxQTzvH6X1LhmzvfSKaS-85" value="교수" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="612" y="504" width="180" height="120" as="geometry" />
+          <mxGeometry x="592" y="462" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wxQTzvH6X1LhmzvfSKaS-86" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="wxQTzvH6X1LhmzvfSKaS-85">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -516,7 +489,7 @@
             <mxPoint x="328" y="38" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wxQTzvH6X1LhmzvfSKaS-117" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;entryX=-0.011;entryY=0.733;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.011;exitY=0.167;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wxQTzvH6X1LhmzvfSKaS-41">
+        <mxCell id="wxQTzvH6X1LhmzvfSKaS-117" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;exitX=1.011;exitY=0.167;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wxQTzvH6X1LhmzvfSKaS-41" target="wxQTzvH6X1LhmzvfSKaS-89">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="517.98" y="104" as="sourcePoint" />
             <mxPoint x="612" y="562.99" as="targetPoint" />
